@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Success jsp page</title>
+<title>success jsp page</title>
 </head>
 <body>
 	<h1>This is success</h1>
